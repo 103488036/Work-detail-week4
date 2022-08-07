@@ -1,0 +1,159 @@
+.menu-bar {
+    font-size: 20px;
+    float: right;
+
+}
+
+nav {
+    position: fixed;
+    top: 20px;
+    right: 50px;
+    margin-right: 50px;z-index: 2;
+}
+
+.Blog {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 27px;
+    letter-spacing: 0.1em;
+    padding: 8px;
+    margin: 8px;
+}
+
+.Work {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 27px;
+    letter-spacing: 0.1em;
+    padding: 8px;
+    margin: 8px;
+    color: #FF6464;
+}
+
+.Contact {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 27px;
+    letter-spacing: 0.1em;
+    padding: 8px;
+    margin: 8px;
+    position: relative;
+    right: 5px;
+}
+
+.title {
+    position: absolute;
+    left: 250px;
+    top: 100px;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+
+}
+
+.year p {
+    background-color: #FF7C7C;
+    font-size: 27.5px;
+    height: 32px;
+    width: 90px;
+    border-radius: 20px;
+    position: absolute;
+    top: 280px;
+    left: 260px;
+    color: #EDF7FA;
+    font-weight: 550;
+    font-family: Arial;
+    padding: 2px;
+    text-align: center;
+}
+
+.user-experience {
+    font-size: 27.5px;
+    height: 32px;
+    width: 450px;
+    border-radius: 20px;
+    position: absolute;
+    top: 280px;
+    left: 410px;
+    font-family: Arial;
+}
+
+.text p {
+    font-family: Arial;
+    font-size: 25px;
+    position: absolute;
+    top: 360px;
+    left: 250px;
+    width: 1100px;
+}
+
+h1 {
+    font-family: 45px;
+    position: absolute;
+    top: 1200px;
+    font-family: Arial;
+    left: 250px;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: 41px;
+    position: absolute;
+    top: 1250px;
+    font-family: Arial;
+    left: 250px;
+    font-weight: 700;
+}
+
+.text-2 p {
+    font-family: Arial;
+    font-size: 25px;
+    position: absolute;
+    top: 1300px;
+    left: 250px;
+    width: 1100px;
+}
+.social{
+    position: absolute;
+    bottom: -2250px;
+    margin: 50px;
+    left:450px;
+    
+}
+.facebook_icon img{
+    position: absolute;
+    margin: 25px;
+}
+.instagram_icon img{
+    position: absolute;
+    margin: 25px;    
+    height: 60px;
+    width: 60px;
+}
+.twitter_icon img{
+    position: absolute;
+    margin: 25px;
+}
+.linkedln_icon img{
+    position: absolute;
+    margin: 25px;
+    height: 60px;
+    width: 60px;
+}
+.copyright {
+    color: rgba(33, 36, 61, 1);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    position: absolute;
+    left: 50px;
+    margin-bottom: 100px;
+    width: 400px;
+}
